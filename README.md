@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Sonu-webdev54/Sonu-webdev54/output/github-contribution-grid-snake.svg" />
-</p>
+</p> -->
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=1000&lines=Hi+👋,+I'm+Sonu;PHP+Laravel+Developer;Backend+Developer;Always+Learning+New+Things" />
