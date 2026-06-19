@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sonu" />
-</p>
-
-<h3 align="center">
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=40&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=1000&lines=Hi+👋,+I'm+Sonu;PHP+Laravel+Developer;Backend+Developer;Always+Learning+New+Things" />
+</h1>
+<!-- <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=PHP+Laravel+Developer;Backend+Developer;REST+API+Developer;MySQL+Enthusiast;Always+Learning+New+Technologies" />
-</h3>
+</h3> -->
 
 ### PHP Laravel Developer
 
@@ -15,8 +14,9 @@
 
 ## 🚀 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css,bootstrap,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,react,mysql,js,html,css,bootstrap,wordpress,git,github,vscode" />
+  <img src="https://cdn.simpleicons.org/shopify/95BF47" width="48" height="48" alt="Shopify" />
 </p>
 
 ## 📊 GitHub Stats
