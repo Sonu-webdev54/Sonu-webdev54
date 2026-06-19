@@ -34,4 +34,6 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Sonu-webdev54
+- LinkedIn: https://linkedin.com/in/sonu-yadav-474998322
+
