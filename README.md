@@ -1,4 +1,10 @@
-# Hi 👋, I'm Sonu
+<h1 align="center">
+  Hi 👋, I'm Sonu
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=PHP+Laravel+Developer;Backend+Developer;REST+API+Developer;MySQL+Enthusiast;Always+Learning+New+Technologies" />
+</h3>
 
 ### PHP Laravel Developer
 
