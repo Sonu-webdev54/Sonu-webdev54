@@ -41,3 +41,8 @@
 - GitHub: https://github.com/Sonu-webdev54
 - LinkedIn: https://linkedin.com/in/sonu-yadav-474998322
 
+## ✍️ Random Dev Quote
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
